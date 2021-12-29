@@ -68,6 +68,9 @@ Here are some ideas to get you started:
   <a href="https://www.sublimetext.com/" target="blank">
     <img align="center" src="https://www.sublimehq.com/images/sublime_text.png" alt="" height="40" width="40" />
   </a>
+  <a href="https://www.sublimemerge.com/" target="blank">
+    <img align="center" src="https://www.sublimehq.com/images/sublime_merge.png" alt="" height="40" width="40" />
+  </a>
 </p>
 
 <h2 align="center">
