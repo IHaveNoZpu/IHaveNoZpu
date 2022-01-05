@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">
 - 😄 Pronouns: He - <br>
-- 🌱 I’m currently learning Arduino <br>
+- 🌱 I’m currently learning C# <br>
 - 📫 How to reach me: Yabanahano#3194 - <br>
 - ⚡ Fun fact: Octopuses have three hearts - <br>
 </h3>
