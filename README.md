@@ -20,14 +20,14 @@ Here are some ideas to get you started:
 </h2>
 
 <h3 align="center">
-  My name is IHaveNoZpu (Can you give me one). I am student from thailand.
+  My name is IHaveNoZpu (Can you give me one). I am student from thailand. Now Im learning about game development and cybersecurity
 </h2>
 
 <h3 align="center">
 - 😄 Pronouns: He - <br>
 - 🌱 I’m currently learning C# <br>
 - 📫 How to reach me: Yabanahano#3194 - <br>
-- ⚡ Fun fact: Octopuses have three hearts - <br>
+- ⚡ Fun fact: I love cat - <br>
 </h3>
 
 <h2 align="center">
