@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </h2>
 
 <h3 align="center">
-  My name is IHaveNoZpu (Can you give me one). I am student from thailand. Now Im learning about game development and cybersecurity
+  My name is IHaveNoZpu (Can you give me one). I am student from thailand.
 </h2>
 
 <h3 align="center">
